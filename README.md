@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python 
 - 🌱 Now I'm learning everything I come across
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? 
+- 📫 How to reach me? 🤔🤷
 
 <!---
 revike/revike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
