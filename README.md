@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revike
 - 👀 I’m interested in Python 
-- 🌱 Now I'm learning everything I come across 😁
+- 🌱 Now I'm learning everything I come across
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
 
